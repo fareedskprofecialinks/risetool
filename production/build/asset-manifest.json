@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2aac1a6b.chunk.css",
+    "main.js": "./static/js/main.2c2c90f5.chunk.js",
+    "main.js.map": "./static/js/main.2c2c90f5.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.9dfbcd82.js",
+    "runtime-main.js.map": "./static/js/runtime-main.9dfbcd82.js.map",
+    "static/css/2.e2b1425a.chunk.css": "./static/css/2.e2b1425a.chunk.css",
+    "static/js/2.2648bab3.chunk.js": "./static/js/2.2648bab3.chunk.js",
+    "static/js/2.2648bab3.chunk.js.map": "./static/js/2.2648bab3.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.f0c89297688049a8725a2a16a7ba1ee7.js": "./precache-manifest.f0c89297688049a8725a2a16a7ba1ee7.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.e2b1425a.chunk.css.map": "./static/css/2.e2b1425a.chunk.css.map",
+    "static/css/main.2aac1a6b.chunk.css.map": "./static/css/main.2aac1a6b.chunk.css.map",
+    "static/js/2.2648bab3.chunk.js.LICENSE.txt": "./static/js/2.2648bab3.chunk.js.LICENSE.txt",
+    "static/js/main.2c2c90f5.chunk.js.LICENSE.txt": "./static/js/main.2c2c90f5.chunk.js.LICENSE.txt",
+    "static/media/Login-box-bg.jpg": "./static/media/Login-box-bg.68e3336f.jpg",
+    "static/media/Login-box-bgsp.jpg": "./static/media/Login-box-bgsp.e1fd4c86.jpg",
+    "static/media/back.png": "./static/media/back.27f2d687.png",
+    "static/media/index.css": "./static/media/mobileheader.98bad0b2.jpg",
+    "static/media/facebook.png": "./static/media/facebook.bce0a925.png",
+    "static/media/google.png": "./static/media/google.2b0b8c4c.png",
+    "static/media/home.png": "./static/media/home.68b270e7.png",
+    "static/media/undrrlogocolor.jpg": "./static/media/undrrlogocolor.2f652e19.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dfbcd82.js",
+    "static/css/2.e2b1425a.chunk.css",
+    "static/js/2.2648bab3.chunk.js",
+    "static/css/main.2aac1a6b.chunk.css",
+    "static/js/main.2c2c90f5.chunk.js"
+  ]
+}
